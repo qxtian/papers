@@ -2,6 +2,7 @@
 
 ## Offline RL
 [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/pdf/2012.15085.pdf)
+
 [THE IMPORTANCE OF PESSIMISM IN FIXED-DATASET POLICY OPTIMIZATION](https://arxiv.org/pdf/2009.06799.pdf)
 
 ## Pareto
