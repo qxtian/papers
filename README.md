@@ -11,6 +11,7 @@
 ## Sim2Real
 [Transfer from Simulation to Real World through Learning Deep Inverse Dynamics Model](https://arxiv.org/pdf/1610.03518.pdf), CoRR, 2016
 propose a method to combine an inverse dynamics policy learned with expert demonstrations and a simulator policy trained in simulator.
+
 [Offline Imitation Learning with a Misspecified Simulator](https://proceedings.neurips.cc/paper/2020/file/60cb558c40e4f18479664069d9642d5a-Paper.pdf), Nips, 2020
 
 ## Pareto
