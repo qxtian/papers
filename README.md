@@ -8,6 +8,10 @@
 [Virtual-Taobao: Virtualizing Real-world Online Retail Environment for Reinforcement Learning](https://arxiv.org/pdf/1805.10000.pdf)
 
 
+## Sim2Real
+[Transfer from Simulation to Real World through Learning Deep Inverse Dynamics Model](https://arxiv.org/pdf/1610.03518.pdf)
+propose a method to combine an inverse dynamics policy learned with expert demonstrations and a simulator policy trained in simulator.
+
 ## Pareto
 
 [Pareto Multi-Task Learning](https://arxiv.org/pdf/1912.12854.pdf)
