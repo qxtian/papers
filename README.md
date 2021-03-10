@@ -5,6 +5,9 @@
 
 [THE IMPORTANCE OF PESSIMISM IN FIXED-DATASET POLICY OPTIMIZATION](https://arxiv.org/pdf/2009.06799.pdf)
 
+[Virtual-Taobao: Virtualizing Real-world Online Retail Environment for Reinforcement Learning](https://arxiv.org/pdf/1805.10000.pdf)
+
+
 ## Pareto
 
 [Pareto Multi-Task Learning](https://arxiv.org/pdf/1912.12854.pdf)
