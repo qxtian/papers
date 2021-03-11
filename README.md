@@ -8,6 +8,9 @@
 [Virtual-Taobao: Virtualizing Real-world Online Retail Environment for Reinforcement Learning](https://arxiv.org/pdf/1805.10000.pdf)
 
 
+## IRL
+[GAIL- Generative Adversarial Imitation Learning](https://papers.nips.cc/paper/2016/file/cc7e2b878868cbae992d1fb743995d8f-Paper.pdf)
+
 ## Sim2Real
 [Transfer from Simulation to Real World through Learning Deep Inverse Dynamics Model](https://arxiv.org/pdf/1610.03518.pdf), CoRR, 2016
 propose a method to combine an inverse dynamics policy learned with expert demonstrations and a simulator policy trained in simulator.
