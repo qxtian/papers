@@ -1,11 +1,13 @@
 # papers
 
 ## Offline RL
+[CQL: Conservative Q-Learning for offline reinforcement learning]
+
 [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/pdf/2012.15085.pdf)
 
 [THE IMPORTANCE OF PESSIMISM IN FIXED-DATASET POLICY OPTIMIZATION](https://arxiv.org/pdf/2009.06799.pdf)
 
-[Virtual-Taobao: Virtualizing Real-world Online Retail Environment for Reinforcement Learning](https://arxiv.org/pdf/1805.10000.pdf)
+
 
 
 ## IRL
@@ -16,6 +18,8 @@
 propose a method to combine an inverse dynamics policy learned with expert demonstrations and a simulator policy trained in simulator.
 
 [Offline Imitation Learning with a Misspecified Simulator](https://proceedings.neurips.cc/paper/2020/file/60cb558c40e4f18479664069d9642d5a-Paper.pdf), Nips, 2020
+
+[Virtual-Taobao: Virtualizing Real-world Online Retail Environment for Reinforcement Learning](https://arxiv.org/pdf/1805.10000.pdf)
 
 ## Pareto
 
