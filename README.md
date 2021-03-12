@@ -3,7 +3,7 @@
 ## Offline RL
 [OPAL: Offline Primitive Discovery for Accelerating Offline Reinforcement Learning](https://openreview.net/pdf?id=V69LGwJ0lIN)
 
-[CQL: Conservative Q-Learning for offline reinforcement learning]
+[CQL: Conservative Q-Learning for offline reinforcement learning](https://arxiv.org/pdf/2006.04779.pdf)
 
 [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/pdf/2012.15085.pdf)
 
