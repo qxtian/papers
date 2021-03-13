@@ -9,7 +9,7 @@
 
 [THE IMPORTANCE OF PESSIMISM IN FIXED-DATASET POLICY OPTIMIZATION](https://arxiv.org/pdf/2009.06799.pdf)
 
-# Model based
+### Model based
 [MOReL: Model-Based Offline Reinforcement Learning](https://arxiv.org/pdf/2005.05951.pdf)
 
 [MOPO: Model-based Offline Policy Optimization](https://arxiv.org/pdf/2005.13239.pdf)
