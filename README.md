@@ -7,8 +7,7 @@
 
 [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/pdf/2012.15085.pdf)
 
-[THE IMPORTANCE OF PESSIMISM IN FIXED-DATASET POLICY OPTIMIZATION](https://arxiv.org/pdf/2009.06799.pdf)
-
+[THE IMPORTANCE OF PESSIMISM IN FIXED-DATASET POLICY OPTIMIZATION](https://arxiv.org/pdf/2009.06799MODEL-BASED OFFLINE PLANNING.p)
 #### Model based
 [MOReL: Model-Based Offline Reinforcement Learning](https://arxiv.org/pdf/2005.05951.pdf)
 
@@ -16,8 +15,11 @@
 
 [COMBO: Conservative Offline Model-Based Policy Optimization](https://arxiv.org/pdf/2102.08363.pdf)
 
+[MODEL-BASED OFFLINE PLANNING](https://openreview.net/pdf?id=OMNB1G5xzd4) ICLR 2021, 8755
+
 [NIPS 2020 Offline Workshop](https://offline-rl-neurips.github.io/papers.html)
 
+[Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization](https://arxiv.org/pdf/2006.03647.pdf) NIPS 2020
 
 
 ## IRL
