@@ -16,6 +16,8 @@
 
 [COMBO: Conservative Offline Model-Based Policy Optimization](https://arxiv.org/pdf/2102.08363.pdf)
 
+[NIPS 2020](https://offline-rl-neurips.github.io/papers.html)
+
 
 
 ## IRL
