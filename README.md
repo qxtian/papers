@@ -42,3 +42,6 @@ propose a method to combine an inverse dynamics policy learned with expert demon
 
 [Multi-Objective Reinforcement Learning using Sets of Pareto Dominating Policies](https://jmlr.csail.mit.edu/papers/volume15/vanmoffaert14a/vanmoffaert14a.pdf), 2014, JMLR,Pareto in RL. 
 
+## HRL
+[Between MDPs and semi-MDPs:A framework for temporal abstractionin reinforcement learning](https://reader.elsevier.com/reader/sd/pii/S0004370299000521?token=6F22DD36E1D8394D262562BDA941EB802AF20CADF56CC8383CACBC8E83A27EFC1D7F8A5F169F49FE35CC8E50DEB3319E) Sutton, 1999, option framework
+
