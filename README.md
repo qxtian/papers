@@ -29,7 +29,7 @@
 
 [Multi-task Batch Reinforcement Learning with Metric Learning](https://proceedings.neurips.cc//paper/2020/file/4496bf24afe7fab6f046bf4923da8de6-Paper.pdf), NIPS2020, Multi task.
 
-[COG: Connecting New Skills to Past Experience with Offline Reinforcement Learning](https://arxiv.org/pdf/2010.14500.pdf)
+[COG: Connecting New Skills to Past Experience with Offline Reinforcement Learning](https://arxiv.org/pdf/2010.14500.pdf), CoRL 2020.
 
 ## IRL
 [GAIL- Generative Adversarial Imitation Learning](https://papers.nips.cc/paper/2016/file/cc7e2b878868cbae992d1fb743995d8f-Paper.pdf)
