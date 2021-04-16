@@ -42,7 +42,8 @@ propose a method to combine an inverse dynamics policy learned with expert demon
 
 [Virtual-Taobao: Virtualizing Real-world Online Retail Environment for Reinforcement Learning](https://arxiv.org/pdf/1805.10000.pdf)
 
-
+## IL
+[Error Bounds of Imitating Policies and Environments](https://papers.nips.cc/paper/2020/file/b5c01503041b70d41d80e3dbe31bbd8c-Paper.pdf)
 
 ## HRL
 [Between MDPs and semi-MDPs:A framework for temporal abstractionin reinforcement learning](https://reader.elsevier.com/reader/sd/pii/S0004370299000521?token=6F22DD36E1D8394D262562BDA941EB802AF20CADF56CC8383CACBC8E83A27EFC1D7F8A5F169F49FE35CC8E50DEB3319E) Sutton, 1999, option framework
