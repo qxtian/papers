@@ -11,6 +11,9 @@
 
 [Off-Policy Deep Reinforcement Learning without Exploration](https://arxiv.org/pdf/1812.02900.pdf), BCQ, ICML 2019.
 
+[Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://arxiv.org/pdf/1906.00949.pdf), BEAR, including analysis of OOD Actions in Q-Learning.
+
+
 #### Model based
 [MOReL: Model-Based Offline Reinforcement Learning](https://arxiv.org/pdf/2005.05951.pdf)
 
