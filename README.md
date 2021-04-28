@@ -34,7 +34,7 @@
 
 [COG: Connecting New Skills to Past Experience with Offline Reinforcement Learning](https://arxiv.org/pdf/2010.14500.pdf), CoRL 2020.
 
-[KEEP DOING WHAT WORKED: BEHAVIOR MODELLING PRIORS FOR OFFLINE REINFORCEMENT LEARNING] (https://arxiv.org/pdf/2002.08396.pdf) ICLR 2020.
+[KEEP DOING WHAT WORKED:BEHAVIOR MODELLING PRIORS FOR OFFLINE REINFORCEMENT LEARNING] (https://arxiv.org/pdf/2002.08396.pdf) ICLR 2020.
 
 [Q-Value Weighted Regression: Reinforcement Learning with Limited Data](https://arxiv.org/pdf/2102.06782.pdf#page=10&zoom=100,0,0) An extension of [KEEP DOING WHAT WORKED ...], unaccepted. 
 
