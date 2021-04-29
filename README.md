@@ -38,6 +38,9 @@
 
 [Q-Value Weighted Regression: Reinforcement Learning with Limited Data](https://arxiv.org/pdf/2102.06782.pdf#page=10&zoom=100,0,0) An extension of [KEEP DOING WHAT WORKED ...], unaccepted. 
 
+### doc
+[NIPS2020 OfflineRL Workshop](https://offline-rl-neurips.github.io/papers.html)
+
 ## OPE
 [AUTOREGRESSIVE DYNAMICS MODELS FOR OFFLINE POLICY EVALUATION AND OPTIMIZATION](https://openreview.net/pdf?id=kmqjgSNXby), ICLR 2021.
 
