@@ -13,6 +13,7 @@
 
 [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://arxiv.org/pdf/1906.00949.pdf), BEAR, including analysis of OOD Actions in Q-Learning.
 
+[Behavior Regularized Offline Reinforcement Learning](https://arxiv.org/pdf/1911.11361.pdf), BRAC, generalizing BEAR, BCQ, etc.
 
 #### Model based
 [MOReL: Model-Based Offline Reinforcement Learning](https://arxiv.org/pdf/2005.05951.pdf)
