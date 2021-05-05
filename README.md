@@ -43,7 +43,9 @@
 [D4RL](https://arxiv.org/pdf/2004.07219.pdf)
 
 ### doc
+[Offline Reinforcement Learning](https://github.com/hanjuku-kaso/awesome-offline-rl)
 [NIPS2020 OfflineRL Workshop](https://offline-rl-neurips.github.io/papers.html)
+[Video tutorial](https://www.youtube.com/watch?app=desktop&v=Es2G8FDl-Nc)
 
 ## OPE
 [AUTOREGRESSIVE DYNAMICS MODELS FOR OFFLINE POLICY EVALUATION AND OPTIMIZATION](https://openreview.net/pdf?id=kmqjgSNXby), ICLR 2021.
