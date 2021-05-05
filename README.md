@@ -49,6 +49,9 @@
 
 [Video tutorial](https://www.youtube.com/watch?app=desktop&v=Es2G8FDl-Nc)
 
+### code
+[AWAC, CQL, MOPO](https://github.com/hari-sikchi/offline_rl), pytorch
+
 ## OPE
 [AUTOREGRESSIVE DYNAMICS MODELS FOR OFFLINE POLICY EVALUATION AND OPTIMIZATION](https://openreview.net/pdf?id=kmqjgSNXby), ICLR 2021.
 
