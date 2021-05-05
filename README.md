@@ -50,7 +50,9 @@
 [Video tutorial](https://www.youtube.com/watch?app=desktop&v=Es2G8FDl-Nc)
 
 ### code
+[d4rl_evaluations](https://github.com/rail-berkeley/d4rl_evaluations), tensorflow
 [AWAC, CQL, MOPO](https://github.com/hari-sikchi/offline_rl), pytorch
+[polixir](https://github.com/polixir/OfflineRL), pytorch
 
 ## OPE
 [AUTOREGRESSIVE DYNAMICS MODELS FOR OFFLINE POLICY EVALUATION AND OPTIMIZATION](https://openreview.net/pdf?id=kmqjgSNXby), ICLR 2021.
