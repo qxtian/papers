@@ -1,6 +1,7 @@
 # papers
 
 ## Offline RL
+#### Model free
 [OPAL: Offline Primitive Discovery for Accelerating Offline Reinforcement Learning](https://openreview.net/pdf?id=V69LGwJ0lIN)
 
 [CQL: Conservative Q-Learning for offline reinforcement learning](https://arxiv.org/pdf/2006.04779.pdf)
@@ -14,6 +15,12 @@
 [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://arxiv.org/pdf/1906.00949.pdf), BEAR, including analysis of OOD Actions in Q-Learning.
 
 [Behavior Regularized Offline Reinforcement Learning](https://arxiv.org/pdf/1911.11361.pdf), BRAC, generalizing BEAR, BCQ, etc.
+
+[KEEP DOING WHAT WORKED: BEHAVIOR MODELLING PRIORS FOR OFFLINE REINFORCEMENT LEARNING](https://arxiv.org/pdf/2002.08396.pdf) ICLR 2020.
+
+[Critic Regularized Regression](https://arxiv.org/pdf/2006.15134.pdf), CRR, Nips 2020.
+
+[Q-Value Weighted Regression: Reinforcement Learning with Limited Data](https://arxiv.org/pdf/2102.06782.pdf#page=10&zoom=100,0,0) An extension of [KEEP DOING WHAT WORKED ...], unaccepted. 
 
 #### Model based
 [MOReL: Model-Based Offline Reinforcement Learning](https://arxiv.org/pdf/2005.05951.pdf)
@@ -35,9 +42,6 @@
 
 [COG: Connecting New Skills to Past Experience with Offline Reinforcement Learning](https://arxiv.org/pdf/2010.14500.pdf), CoRL 2020.
 
-[KEEP DOING WHAT WORKED: BEHAVIOR MODELLING PRIORS FOR OFFLINE REINFORCEMENT LEARNING](https://arxiv.org/pdf/2002.08396.pdf) ICLR 2020.
-
-[Q-Value Weighted Regression: Reinforcement Learning with Limited Data](https://arxiv.org/pdf/2102.06782.pdf#page=10&zoom=100,0,0) An extension of [KEEP DOING WHAT WORKED ...], unaccepted. 
 
 ### datasets
 [D4RL](https://arxiv.org/pdf/2004.07219.pdf)
