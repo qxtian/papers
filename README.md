@@ -39,6 +39,7 @@
 [OPAL: OFFLINE PRIMITIVE DISCOVERY FOR ACCELERATING OFFLINE REINFORCEMENT LEARNING](https://arxiv.org/pdf/2010.13611.pdf), Offline + hrl
 
 [Multi-task Batch Reinforcement Learning with Metric Learning](https://proceedings.neurips.cc//paper/2020/file/4496bf24afe7fab6f046bf4923da8de6-Paper.pdf), NIPS2020, Multi task, Generalize to unseen tasks.
+[BATCH REINFORCEMENT LEARNING THROUGH CONTINUATION METHOD](https://openreview.net/pdf/84a7a35d996f84ab9fbbbcabccbdc21f44f2ba68.pdf), ICLR 2020, Offlien+continution.
 
 [COG: Connecting New Skills to Past Experience with Offline Reinforcement Learning](https://arxiv.org/pdf/2010.14500.pdf), CoRL 2020.
 
