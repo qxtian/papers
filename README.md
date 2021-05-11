@@ -16,11 +16,11 @@
 
 [Behavior Regularized Offline Reinforcement Learning](https://arxiv.org/pdf/1911.11361.pdf), BRAC, generalizing BEAR, BCQ, etc.
 
-[KEEP DOING WHAT WORKED: BEHAVIOR MODELLING PRIORS FOR OFFLINE REINFORCEMENT LEARNING](https://arxiv.org/pdf/2002.08396.pdf) ICLR 2020.
-
 [Critic Regularized Regression](https://arxiv.org/pdf/2006.15134.pdf), CRR, Nips 2020.
 
 [Q-Value Weighted Regression: Reinforcement Learning with Limited Data](https://arxiv.org/pdf/2102.06782.pdf#page=10&zoom=100,0,0) An extension of [KEEP DOING WHAT WORKED ...], unaccepted. 
+
+[Batch Reinforcement Learning Through Continuation Method](https://openreview.net/pdf?id=po-DLlBuAuz)
 
 #### Model based
 [MOReL: Model-Based Offline Reinforcement Learning](https://arxiv.org/pdf/2005.05951.pdf)
@@ -43,6 +43,7 @@
 
 [COG: Connecting New Skills to Past Experience with Offline Reinforcement Learning](https://arxiv.org/pdf/2010.14500.pdf), CoRL 2020.
 
+[KEEP DOING WHAT WORKED: BEHAVIOR MODELLING PRIORS FOR OFFLINE REINFORCEMENT LEARNING](https://arxiv.org/pdf/2002.08396.pdf) ICLR 2020.
 
 ### datasets
 [D4RL](https://arxiv.org/pdf/2004.07219.pdf)
