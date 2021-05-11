@@ -67,6 +67,8 @@
 
 [BENCHMARKS FOR DEEP OFF-POLICY EVALUATION](https://arxiv.org/pdf/2103.16596.pdf), ICLR 2021.
 
+[github-code](https://github.com/theophilee/discrete-off-policy-evaluation),Implementation of importance sampling, direct, and hybrid methods for off-policy evaluation.
+
 ## IRL
 [GAIL- Generative Adversarial Imitation Learning](https://papers.nips.cc/paper/2016/file/cc7e2b878868cbae992d1fb743995d8f-Paper.pdf)
 
