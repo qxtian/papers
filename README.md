@@ -66,6 +66,8 @@
 2) Policies trained with the following algorithms (D4PG, ABM, CRR, SAC, DAPG and BC) and snapshots along the training trajectory. This faciliates benchmarking offline model selection.
 
 ## OPE
+[Empirical Study of Off-Policy Policy Evaluation for Reinforcement Learning](https://arxiv.org/pdf/1911.06854.pdf),2019, survey of OPE.
+
 [AUTOREGRESSIVE DYNAMICS MODELS FOR OFFLINE POLICY EVALUATION AND OPTIMIZATION](https://openreview.net/pdf?id=kmqjgSNXby), ICLR 2021.
 
 [BENCHMARKS FOR DEEP OFF-POLICY EVALUATION](https://arxiv.org/pdf/2103.16596.pdf), ICLR 2021.
