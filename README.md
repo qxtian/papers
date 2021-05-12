@@ -62,6 +62,9 @@
 
 [polixir](https://github.com/polixir/OfflineRL), pytorch
 
+[Benchmarks for Deep Off-Policy Evaluation](https://github.com/google-research/deep_ope), This release provides: 1)Policies for the tasks in the D4RL, DeepMind Locomotion and Control Suite datasets (described below).
+2) Policies trained with the following algorithms (D4PG, ABM, CRR, SAC, DAPG and BC) and snapshots along the training trajectory. This faciliates benchmarking offline model selection.
+
 ## OPE
 [AUTOREGRESSIVE DYNAMICS MODELS FOR OFFLINE POLICY EVALUATION AND OPTIMIZATION](https://openreview.net/pdf?id=kmqjgSNXby), ICLR 2021.
 
