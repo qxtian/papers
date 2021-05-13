@@ -74,7 +74,7 @@
 
 [github-code](https://github.com/theophilee/discrete-off-policy-evaluation),Implementation of importance sampling, direct, and hybrid methods for off-policy evaluation.
 
-[Empirical Study of Off Policy Policy Estimation](https://github.com/clvoloshin/OPE-tools),OPE Tools
+[code-Empirical Study of Off Policy Policy Estimation](https://github.com/clvoloshin/OPE-tools),OPE Tools
 
 ## IRL
 [GAIL- Generative Adversarial Imitation Learning](https://papers.nips.cc/paper/2016/file/cc7e2b878868cbae992d1fb743995d8f-Paper.pdf)
