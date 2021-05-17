@@ -72,12 +72,16 @@
 
 [BENCHMARKS FOR DEEP OFF-POLICY EVALUATION](https://arxiv.org/pdf/2103.16596.pdf), ICLR 2021.
 
+[Doubly Robust Off-Policy Value and Gradient Estimation for Deterministic Policies](https://papers.nips.cc/paper/2020/file/75df63609809c7a2052fdffe5c00a84e-Paper.pdf)
+
+### code
+[DualDICE](https://github.com/google-research/google-research/tree/master/dual_dice),from google-research.
+
 [github-code](https://github.com/theophilee/discrete-off-policy-evaluation),Implementation of importance sampling, direct, and hybrid methods for off-policy evaluation.
 
 [code-Empirical Study of Off Policy Policy Estimation](https://github.com/clvoloshin/OPE-tools),OPE Tools
 
-### code
-[DualDICE](https://github.com/google-research/google-research/tree/master/dual_dice),from google-research.
+
 
 ## IRL
 [GAIL- Generative Adversarial Imitation Learning](https://papers.nips.cc/paper/2016/file/cc7e2b878868cbae992d1fb743995d8f-Paper.pdf)
