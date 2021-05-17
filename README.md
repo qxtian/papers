@@ -72,7 +72,9 @@
 
 [BENCHMARKS FOR DEEP OFF-POLICY EVALUATION](https://arxiv.org/pdf/2103.16596.pdf), ICLR 2021.
 
-[Doubly Robust Off-Policy Value and Gradient Estimation for Deterministic Policies](https://papers.nips.cc/paper/2020/file/75df63609809c7a2052fdffe5c00a84e-Paper.pdf)
+[Doubly Robust Off-Policy Value and Gradient Estimation for Deterministic Policies](https://papers.nips.cc/paper/2020/file/75df63609809c7a2052fdffe5c00a84e-Paper.pdf), NIPS 2020.
+
+[Double Reinforcement Learning for Efficient Off-Policy Evaluation in Markov Decision Processes](https://arxiv.org/pdf/1908.08526v3.pdf), [code](https://github.com/CausalML/DoubleReinforcementLearningMDP)
 
 ### code
 [DualDICE](https://github.com/google-research/google-research/tree/master/dual_dice),from google-research.
