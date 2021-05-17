@@ -76,6 +76,9 @@
 
 [Double Reinforcement Learning for Efficient Off-Policy Evaluation in Markov Decision Processes](https://arxiv.org/pdf/1908.08526v3.pdf), [code](https://github.com/CausalML/DoubleReinforcementLearningMDP)
 
+[AUTOREGRESSIVE DYNAMICS MODELS FOR OFFLINE POLICY EVALUATION AND OPTIMIZATION](https://openreview.net/pdf?id=kmqjgSNXby), ICLR 2021.
+
+
 ### code
 [DualDICE](https://github.com/google-research/google-research/tree/master/dual_dice),from google-research.
 
