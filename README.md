@@ -76,6 +76,9 @@
 
 [code-Empirical Study of Off Policy Policy Estimation](https://github.com/clvoloshin/OPE-tools),OPE Tools
 
+### code
+[DualDICE](https://github.com/google-research/google-research/tree/master/dual_dice),from google-research.
+
 ## IRL
 [GAIL- Generative Adversarial Imitation Learning](https://papers.nips.cc/paper/2016/file/cc7e2b878868cbae992d1fb743995d8f-Paper.pdf)
 
