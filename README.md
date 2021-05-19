@@ -76,6 +76,8 @@
 
 [AUTOREGRESSIVE DYNAMICS MODELS FOR OFFLINE POLICY EVALUATION AND OPTIMIZATION](https://openreview.net/pdf?id=kmqjgSNXby), ICLR 2021.
 
+[Statistical Bootstrapping for Uncertainty Estimation in Off-Policy Evaluation](https://arxiv.org/pdf/2007.13609.pdf)[code](https://github.com/google-research/google-research/tree/master/policy_eval)
+
 
 ### code
 [DualDICE](https://github.com/google-research/google-research/tree/master/dual_dice),from google-research.
