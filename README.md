@@ -67,9 +67,6 @@
 
 [AUTOREGRESSIVE DYNAMICS MODELS FOR OFFLINE POLICY EVALUATION AND OPTIMIZATION](https://openreview.net/pdf?id=kmqjgSNXby), ICLR 2021.
 
-[BENCHMARKS FOR DEEP OFF-POLICY EVALUATION](https://arxiv.org/pdf/2103.16596.pdf), [[code]](https://github.com/google-research/deep_ope), ICLR 2021, This release provides: 1)Policies for the tasks in the D4RL, DeepMind Locomotion and Control Suite datasets (described below).
-2) Policies trained with the following algorithms (D4PG, ABM, CRR, SAC, DAPG and BC) and snapshots along the training trajectory. This faciliates benchmarking offline model selection..
-
 [Doubly Robust Off-Policy Value and Gradient Estimation for Deterministic Policies](https://papers.nips.cc/paper/2020/file/75df63609809c7a2052fdffe5c00a84e-Paper.pdf), NIPS 2020.
 
 [Double Reinforcement Learning for Efficient Off-Policy Evaluation in Markov Decision Processes](https://arxiv.org/pdf/1908.08526v3.pdf), [code](https://github.com/CausalML/DoubleReinforcementLearningMDP)
@@ -86,6 +83,8 @@
 
 [code-Empirical Study of Off Policy Policy Estimation](https://github.com/clvoloshin/OPE-tools),OPE Tools
 
+[BENCHMARKS FOR DEEP OFF-POLICY EVALUATION](https://arxiv.org/pdf/2103.16596.pdf), [[code]](https://github.com/google-research/deep_ope), ICLR 2021, This release provides: 1)Policies for the tasks in the D4RL, DeepMind Locomotion and Control Suite datasets (described below).
+2) Policies trained with the following algorithms (D4PG, ABM, CRR, SAC, DAPG and BC) and snapshots along the training trajectory. This faciliates benchmarking offline model selection.[auxiliary code](https://github.com/google-research/google-research/tree/master/policy_eval)[auxiliary code dice](https://github.com/google-research/dice_rl)
 
 
 ## IRL
