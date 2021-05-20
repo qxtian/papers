@@ -75,6 +75,10 @@
 
 [Statistical Bootstrapping for Uncertainty Estimation in Off-Policy Evaluation](https://arxiv.org/pdf/2007.13609.pdf)[code](https://github.com/google-research/google-research/tree/master/policy_eval)
 
+[Batch Policy Learning under Constraints](https://arxiv.org/pdf/1903.08738.pdf), FQE
+
+[Doubly Robust Off-policy Value Evaluation for Reinforcement Learning](https://arxiv.org/pdf/1511.03722.pdf), Doubly-robust(DR)
+
 
 ### code
 [DualDICE](https://github.com/google-research/google-research/tree/master/dual_dice),from google-research.
