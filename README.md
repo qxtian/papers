@@ -35,6 +35,8 @@
 
 [Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization](https://arxiv.org/pdf/2006.03647.pdf) NIPS 2020
 
+[Autoregressive Dynamics Models for Offline Policy Evaluation and Optimization](https://openreview.net/pdf?id=kmqjgSNXby), ICLR 2021
+
 ### app
 [OPAL: OFFLINE PRIMITIVE DISCOVERY FOR ACCELERATING OFFLINE REINFORCEMENT LEARNING](https://arxiv.org/pdf/2010.13611.pdf), Offline + hrl
 
